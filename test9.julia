@@ -1,0 +1,11 @@
+function square(n) {
+    return n * n;
+}
+end
+
+function cube(n) {
+    return n * square(n);
+}
+end
+
+print(cube(3));

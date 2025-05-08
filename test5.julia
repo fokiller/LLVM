@@ -1,0 +1,9 @@
+function compute(a, b)
+{
+    temp = a * b;
+    return temp + 10;
+}
+end
+
+result = compute(2, 3);
+print(result);

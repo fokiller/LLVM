@@ -1,0 +1,12 @@
+function multiply(a, b) {
+    return a * b;
+}
+end
+
+function add(x, y) {
+    return x + y;
+}
+end
+
+z = add(2, multiply(3, 4));
+print(z);

@@ -1,0 +1,8 @@
+function add(x, y)
+{
+    return x + y;
+}
+end
+
+z = add(3, 4);
+print(z);
