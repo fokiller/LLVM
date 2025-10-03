@@ -1,7 +1,5 @@
 # Final_Project_LLVM_IR_Generator
-## TEAM_69
-## Vinay_Mehta_55160069
-## Lakshmi_Venkata_Sai_Charan_Nuthalapati_55029265
+## Vinay_Mehta
 
 ## Project Overview
 This project implements a compiler for a subset of the Julia programming language using **ANTLR4** and **Java**,
