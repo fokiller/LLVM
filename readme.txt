@@ -1,4 +1,4 @@
-# Final_Project_LLVM_IR_Generator
+# Project_LLVM_IR_Generator
 ## Vinay_Mehta
 
 ## Project Overview
